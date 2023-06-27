@@ -37,3 +37,9 @@ Front-end developer
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm"/>
   
 <div/>
+
+<h2>
+  Codewars:
+</h2>
+
+![](https://www.codewars.com/users/pashkovichma/badges/large)
