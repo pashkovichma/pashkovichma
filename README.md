@@ -49,4 +49,4 @@ Front-end developer
   LeetCode:
 </h2>
 
-[![LeetCode user  Maryia Pashkovich](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F%20Maryia%20Pashkovich&logo=leetcode&logoColor=yellow)](https://leetcode.com/ Maryia Pashkovich/)
+[![LeetCode user MariaPashkovich](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMariaPashkovich&logo=leetcode&logoColor=yellow)](https://leetcode.com/MariaPashkovich/)
